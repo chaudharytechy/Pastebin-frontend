@@ -1,5 +1,29 @@
 # React + Vite
 
+
+
+
+RUn - npm run dev 
+
+
+fill the form , click create btn , below a url appear copy , paste in search bar 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
